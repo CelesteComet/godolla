@@ -1,5 +1,5 @@
 # GoDolla
-GoDolla is a Go package designed to make writing SQL queries that involve variables less painful.
+GoDolla is a Go package designed to make writing Postgresql queries that involve variables less painful.
 
 
 import "github.com/CelesteComet/godolla"
