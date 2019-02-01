@@ -11,7 +11,6 @@ Just initialize a GoDolla object, and call the Serial method passing in an integ
 import gd "github.com/CelesteComet/godolla"
 
 func main() {
-  gd := gd{}  
   log.Println(gd.Serial(3)) // produces the following string ($1, $2, $3)
 }
 ~~~
